@@ -10,6 +10,10 @@ This project helped us understand embedded systems, sensor interfacing, Arduino 
 ## Block diagram
 ![Block diagram]("C:\Pictures\new.png")
 
+## Circuit Diagram
+
+![Circuit Diagram](Screenshot 2025-10-11 085016.png)
+
 ## Features
 - Real-time humidity detection
 - Arduino and DHT11 sensor interfacing
