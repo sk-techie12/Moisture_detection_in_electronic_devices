@@ -195,21 +195,6 @@ Through this project, we gained practical experience in:
 
 ---
 
-## Project Images
-
-### Hardware Setup
-
-(Add hardware image here)
-
-### Circuit Diagram
-
-(Add circuit diagram here)
-
-### Working Prototype
-
-(Add prototype image here)
-
----
 
 ## Project Team
 
