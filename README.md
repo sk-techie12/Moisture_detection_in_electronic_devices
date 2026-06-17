@@ -7,6 +7,8 @@ To solve this problem, we used a DHT11 humidity sensor with an Arduino Uno to mo
 
 This project helped us understand embedded systems, sensor interfacing, Arduino programming, and real-time monitoring.
 
+## Block diagram
+![Block diagram](new.png)
 
 ## Features
 - Real-time humidity detection
